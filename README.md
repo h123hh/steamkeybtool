@@ -1,0 +1,2 @@
+# steamkeybtool
+仿造steamkey生成规则生成key，有概率匹配正确的steamkey
