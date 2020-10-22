@@ -32,7 +32,7 @@
 <div class="panel panel-default text">
   <div class="panel-heading">说明</div>
   <div class="panel-body">
-    该工具是根据SteamKey的生成规则生成Key的工具，生成出来的Key不是真正的SteamKey，请勿用于违法用途
+    该工具是根据SteamKey的生成规则生成Key的工具，生成出来的Key并不是真正的SteamKey，请勿用于违法用途
   </div>
 </div>
 </body>
